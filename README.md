@@ -1,6 +1,6 @@
 Hey there! 👋
 
-I'm a self-taught programmer with 5 years of experience. I started learning after college because I felt that in order for our family business to survive, we needed to use the available technologies that were available.
+I'm a self-taught programmer with 5 years of experience. I started learning after college because I felt that in order for our family business to survive, we needed to use the power of the computer.
 
 Currently, I'm working on developing an online shop for Paper Boy Manufacturing 🏭, where we produce various paper products. You can check out the website I'm working on here: https://spiffy-tiramisu-9c0c36.netlify.app/. As part of my development journey, I'm learning React JS 🌱 and Firebase 🔥, which I'm super excited about! I'm also looking for collaborators 👯 to join me on this project, and I'm seeking help 🤔 with building eCommerce websites. 
 
