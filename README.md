@@ -1,13 +1,16 @@
-Hey there! 👋
+Hi there! 👋
+I'm a self-taught software engineer with 6 years of experience, driven by the belief that technology can transform businesses. After college, I dove into programming to modernize our family business, and I haven’t looked back since.
 
-I'm a self-taught programmer with 5 years of experience. I started learning after college because I felt that in order for our family business to survive, we needed to use the power of the computer.
+Currently, I’m leading the development of a cloud-based accounting system ☁️📊 for our company, enabling real-time insights into business performance 📈. This project has sharpened my expertise in MongoDB 🛢️, Flask 🌐, handling concurrent transactions ⚙️, and leading a team of engineers 👨‍💻👩‍💻.
 
-Currently, I'm working on developing an online shop for Paper Boy Manufacturing 🏭, where we produce various paper products. You can check out the website I'm working on here: https://starpack.ph. As part of my development journey, I'm learning React JS 🌱 and Firebase 🔥, which I'm super excited about! I'm also looking for collaborators 👯 to join me on this project, and I'm seeking help 🤔 with building eCommerce websites. 
+Prior to this, I developed an eCommerce platform for Paper Boy Manufacturing 🏭, where we produce a variety of paper products. I’m constantly learning, with React JS 🌱 and Firebase 🔥 being my latest tech stacks, and I’m excited about the possibilities they bring. I’m also open to collaborating on new projects 👯, especially in the eCommerce space.
 
-In terms of my programming language knowledge, I'm proficient in Python 🐍 and JavaScript. For the GUI, I've used tkinter for Python and React JS for JavaScript. I've worked with various databases including SQLite, SQL Server, and Firestore. For the backend, I've used Python and Firebase.
+🔑 Key Skills:
 
-In the past, I have also built Inventory Barcode Systems to help collect data and analyze it to give suggestions on what we should do with the business. It's an area that I'm passionate about and enjoy working on. If you have any questions about Data Science 💬, feel free to ask me.
+Languages: Python 🐍, JavaScript
+Frameworks: Flask, React JS
+Databases: MongoDB, SQLite, SQL Server, Firestore
+Other: Built custom Inventory Barcode Systems for data-driven decision-making
+Aside from coding, I’m passionate about data science 💬 and love discussing how we can use data to drive business outcomes. In my downtime, you’ll find me playing tennis 🎾, gaming 🎮 (Dota 2), or spending time with my girlfriend to recharge.
 
-When I'm not working on this project or other programming tasks, I like to de-stress by hanging out with my girlfriend, it helps me relax and recharge. Another way I like to unwind is by playing tennis 🎾 and Dota 2 🎮.
-
-If you're interested in connecting with me or learning more about my work, you can reach me at ladia.adrian@gmail.com 📫. Thanks for stopping by!
+Feel free to connect if you’re interested in collaborating, or have any questions. You can reach me at ladia.adrian@gmail.com 📫.
