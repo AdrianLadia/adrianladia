@@ -1,5 +1,5 @@
 Hi there! 👋
-I'm a self-taught software engineer with 6 years of experience, driven by the belief that technology can transform businesses. After college, I dove into programming to modernize our family business, and I haven’t looked back since.
+I'm a self-taught software engineer with 8 years of experience, driven by the belief that technology can transform businesses. After college, I dove into programming to modernize our family business, and I haven’t looked back since.
 
 Currently, I’m leading the development of a cloud-based accounting system ☁️📊 for our company, enabling real-time insights into business performance 📈. This project has sharpened my expertise in MongoDB 🛢️, Flask 🌐, handling concurrent transactions ⚙️, and leading a team of engineers 👨‍💻👩‍💻.
 
